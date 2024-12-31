@@ -1,0 +1,243 @@
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+E:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Temprory storage\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomer.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineList.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainer.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainerList.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPayment.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPaymentList.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpense.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHead.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalary.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalaryList.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomerList.resources
+D:\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLog.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomer.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomerList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpense.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHead.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHeadList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLog.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPayment.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPaymentList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalary.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalaryList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainer.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainerList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Karachi Computers\Documents\GitHub\desktop-tutorial\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomer.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomerList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpense.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHead.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHeadList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLog.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPayment.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPaymentList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalary.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalaryList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainer.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainerList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUse.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUseList.resources
+C:\Users\Karachi Computers\Documents\GitHub\AsadGMS\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+D:\KhplProject\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+D:\KhplProject\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomer.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomerList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpense.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHead.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHeadList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLog.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUse.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUseList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPayment.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPaymentList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalary.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalaryList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainer.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainerList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+D:\KhplProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomer.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomerList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpense.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHead.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHeadList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLog.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUse.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUseList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPayment.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPaymentList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalary.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalaryList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainer.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainerList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+E:\KhplGMSProject\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+D:\Software\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+D:\Software\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+D:\Software\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomer.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmCustomerList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpense.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHead.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmExpenseHeadList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLog.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachine.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUse.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMachineUseList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmMain.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPayment.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmPaymentList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalary.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmSalaryList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainer.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmTrainerList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserList.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+D:\Software\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb

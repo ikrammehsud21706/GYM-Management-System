@@ -1,0 +1,15 @@
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmUserRegistration.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmChangePassword.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmForgetPassword.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmGenerateOtp.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.FrmLogin.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+E:\SQL+C# connected\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb

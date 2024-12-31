@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF423635-9664-4823-8353-6BD5DA219766}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GymManagementSystem</RootNamespace>
+    <AssemblyName>GymManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\BLCustomer.cs" />
+    <Compile Include="BL\BLExpense.cs" />
+    <Compile Include="BL\BLExpenseHead.cs" />
+    <Compile Include="BL\BLLog.cs" />
+    <Compile Include="BL\BLMachine.cs" />
+    <Compile Include="BL\BLMachineUse.cs" />
+    <Compile Include="BL\BLPayment.cs" />
+    <Compile Include="BL\BLSalary.cs" />
+    <Compile Include="BL\BLTrainer.cs" />
+    <Compile Include="BL\BLUser.cs" />
+    <Compile Include="Custom classes\ActionType.cs" />
+    <Compile Include="Custom classes\ClsEmailOtp.cs" />
+    <Compile Include="DAL\DataAccess.cs" />
+    <Compile Include="FrmExpenseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExpenseList.Designer.cs">
+      <DependentUpon>FrmExpenseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUserRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUserRegistration.Designer.cs">
+      <DependentUpon>FrmUserRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChangePassword.Designer.cs">
+      <DependentUpon>FrmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCustomer.Designer.cs">
+      <DependentUpon>FrmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCustomerList.Designer.cs">
+      <DependentUpon>FrmCustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExpense.Designer.cs">
+      <DependentUpon>FrmExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExpenseHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExpenseHead.Designer.cs">
+      <DependentUpon>FrmExpenseHead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExpenseHeadList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExpenseHeadList.Designer.cs">
+      <DependentUpon>FrmExpenseHeadList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmForgetPassword.Designer.cs">
+      <DependentUpon>FrmForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGenerateOtp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGenerateOtp.Designer.cs">
+      <DependentUpon>FrmGenerateOtp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLog.Designer.cs">
+      <DependentUpon>FrmLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMachine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMachine.Designer.cs">
+      <DependentUpon>FrmMachine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMachineList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMachineList.Designer.cs">
+      <DependentUpon>FrmMachineList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMachineUse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMachineUse.Designer.cs">
+      <DependentUpon>FrmMachineUse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMachineUseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMachineUseList.Designer.cs">
+      <DependentUpon>FrmMachineUseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPayment.Designer.cs">
+      <DependentUpon>FrmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPaymentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPaymentList.Designer.cs">
+      <DependentUpon>FrmPaymentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSalary.Designer.cs">
+      <DependentUpon>FrmSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSalaryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSalaryList.Designer.cs">
+      <DependentUpon>FrmSalaryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrainer.Designer.cs">
+      <DependentUpon>FrmTrainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrainerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrainerList.Designer.cs">
+      <DependentUpon>FrmTrainerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUserList.Designer.cs">
+      <DependentUpon>FrmUserList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmExpenseList.resx">
+      <DependentUpon>FrmExpenseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUserRegistration.resx">
+      <DependentUpon>FrmUserRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChangePassword.resx">
+      <DependentUpon>FrmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCustomer.resx">
+      <DependentUpon>FrmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCustomerList.resx">
+      <DependentUpon>FrmCustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExpense.resx">
+      <DependentUpon>FrmExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExpenseHead.resx">
+      <DependentUpon>FrmExpenseHead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExpenseHeadList.resx">
+      <DependentUpon>FrmExpenseHeadList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmForgetPassword.resx">
+      <DependentUpon>FrmForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGenerateOtp.resx">
+      <DependentUpon>FrmGenerateOtp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLog.resx">
+      <DependentUpon>FrmLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMachine.resx">
+      <DependentUpon>FrmMachine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMachineList.resx">
+      <DependentUpon>FrmMachineList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMachineUse.resx">
+      <DependentUpon>FrmMachineUse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMachineUseList.resx">
+      <DependentUpon>FrmMachineUseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPayment.resx">
+      <DependentUpon>FrmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPaymentList.resx">
+      <DependentUpon>FrmPaymentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSalary.resx">
+      <DependentUpon>FrmSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSalaryList.resx">
+      <DependentUpon>FrmSalaryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrainer.resx">
+      <DependentUpon>FrmTrainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrainerList.resx">
+      <DependentUpon>FrmTrainerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUserList.resx">
+      <DependentUpon>FrmUserList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login form2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_close_window_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muscle-muscle-bodybuilding-press-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-1580261450046-d0a30080dc9b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-gym-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_eye_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_closed_eye_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_eye_26px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_edit_property_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_trash_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-lukas-669584.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-919530388-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1000_F_169363590_nKsTVbzdjadZ1oxwrOFJgeSVYDXva6kE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutterstock_1187011240-scaled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-919530388-170667a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-919530388-170667a2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_512px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_docs_480px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_docs_480px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_512px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RjikWd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp7291598.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63d86addef8e4969494fb3a9_5d82e46e8fcf39fd6a638f8b_fitness-motivation-quotes_6.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63d86addef8e4906b04fb38d_5d8404c173db49c9a3ec5bc8_fitness-motivation-quotes_22.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1504570.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15045701.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wp72915981.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15045702.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-lukas-6695841.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-lukas-6695842.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-lukas-6695843.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63d86addef8e4969494fb3a9_5d82e46e8fcf39fd6a638f8b_fitness-motivation-quotes_61.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63d86addef8e4906b04fb38d_5d8404c173db49c9a3ec5bc8_fitness-motivation-quotes_221.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4628438cfe0cff5d2d041c6ee03632fe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snip.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cbs_512px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cbs_512px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cbs_512px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63d86addef8e4969494fb3a9_5d82e46e8fcf39fd6a638f8b_fitness-motivation-quotes_62.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63d86addef8e4969494fb3a9_5d82e46e8fcf39fd6a638f8b_fitness-motivation-quotes_63.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-919530388-170667a3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_docs_480px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_512px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-black-red-gym-red-music-workout-fitness-black-dark-thumbnail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\941314e48a340eac6a1d534e1971baa7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture23.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-919530388-170667a4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_docs_480px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_512px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RjikWd1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\941314e48a340eac6a1d534e1971baa71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-black-red-gym-red-music-workout-fitness-black-dark-thumbnail1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\941314e48a340eac6a1d534e1971baa72.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GymSnap.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\586108383a658280236ca4a1ed895de0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\586108383a658280236ca4a1ed895de01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\151-1511296_power-button-sign-out-png-icon-transparent-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_close_500px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_close_500px_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_docs_480px4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_512px4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_google_docs_480px5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_512px5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_close_500px_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlackIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlackIcon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhiteIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2118701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1005506.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10055061.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kettlebell-gym-fitness-workout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon-16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1019607.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1179398744-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fitness-logo,-gym-logo,-fitness-center-logo-%28-design-template-386146ae4164059d8fb5bbf00a6c28bc_screen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-vector-bodybuilding-emblem-and-gym-logo-design-vector-template-2250386197.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y_ov3EeU_400x400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sports-health-gym-and-fitness-logo-03ed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

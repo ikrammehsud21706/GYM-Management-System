@@ -1,0 +1,1076 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software\\GymManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|d:\\software\\gymmanagementsystem\\gymmanagementsystem\\frmgenerateotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmgenerateotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\custom classes\\clsemailotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\custom classes\\clsemailotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmgenerateotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmgenerateotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmforgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmforgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmforgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmforgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachineuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachineuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachineuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachineuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmuserregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmuserregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmuserregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmuserregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\bltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\bltrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmtrainerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmtrainerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmtrainerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmtrainerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmtrainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmuserregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmuserregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\custom classes\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\custom classes\\actiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmpaymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmpaymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmpaymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmpaymentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpensehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpensehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachineuselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachineuselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmsalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmsalary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpensehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpensehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpensehead.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpensehead.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blexpensehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blexpensehead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpenselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpenselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpenselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpenselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpenseheadlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpenseheadlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmexpenseheadlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmexpenseheadlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmsalarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmsalarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmsalarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmsalarylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachineuselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachineuselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmmachinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmmachinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmcustomerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmcustomerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmcustomerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmcustomerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blmachineuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blmachineuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\bl\\blmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\bl\\blmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmforgetpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmforgetpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|D:\\Software\\GymManagementSystem\\gymmanagementsystem\\frmgenerateotp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF423635-9664-4823-8353-6BD5DA219766}|GymManagementSystem\\GymManagementSystem.csproj|solutionrelative:gymmanagementsystem\\frmgenerateotp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGenerateOtp.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmGenerateOtp.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmGenerateOtp.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmGenerateOtp.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmGenerateOtp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BLUser.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLUser.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLUser.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLUser.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLUser.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAHoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmLogin.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLogin.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmLogin.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGenerateOtp.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmGenerateOtp.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmGenerateOtp.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmGenerateOtp.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmGenerateOtp.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsEmailOtp.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\Custom classes\\ClsEmailOtp.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Custom classes\\ClsEmailOtp.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\Custom classes\\ClsEmailOtp.cs",
+              "RelativeToolTip": "GymManagementSystem\\Custom classes\\ClsEmailOtp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:03:22.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmChangePassword.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmChangePassword.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmChangePassword.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmChangePassword.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmChangePassword.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmChangePassword.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmChangePassword.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMain.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMain.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMain.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.077Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmForgetPassword.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmForgetPassword.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmForgetPassword.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmForgetPassword.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmForgetPassword.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmForgetPassword.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmForgetPassword.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmForgetPassword.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmForgetPassword.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmForgetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmLogin.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:41.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMachineUse.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUse.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachineUse.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUse.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachineUse.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAABsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BLCustomer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLCustomer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLCustomer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLCustomer.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLCustomer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAlwF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMachineUse.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUse.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachineUse.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUse.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachineUse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmCustomer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmCustomer.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAAAHgBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:07:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmCustomer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmUserRegistration.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserRegistration.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmUserRegistration.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserRegistration.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmUserRegistration.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAAABYBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmUserList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmUserList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmUserList.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmUserList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmUserList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmUserList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmUserRegistration.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserRegistration.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmUserRegistration.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserRegistration.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmUserRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMain.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMain.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMain.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmMain.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAD4v5gAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BLTrainer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLTrainer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLTrainer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLTrainer.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLTrainer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIA8wEYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmTrainer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmTrainer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmTrainer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmTrainerList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainerList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmTrainerList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainerList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmTrainerList.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmLog.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLog.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmLog.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLog.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmLog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:15:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmLog.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLog.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmLog.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmLog.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmTrainerList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainerList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmTrainerList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainerList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmTrainerList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmTrainer.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmTrainer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmTrainer.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmTrainer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmUserRegistration.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserRegistration.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmUserRegistration.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmUserRegistration.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmUserRegistration.Designer.cs",
+              "ViewState": "AgIAANMBAAAAAAAAAAAnwN0BAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:35:00.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActionType.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\Custom classes\\ActionType.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Custom classes\\ActionType.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\Custom classes\\ActionType.cs",
+              "RelativeToolTip": "GymManagementSystem\\Custom classes\\ActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:03:17.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmPaymentList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPaymentList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmPaymentList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPaymentList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmPaymentList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmPaymentList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPaymentList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmPaymentList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPaymentList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmPaymentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:41.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmSalary.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalary.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmSalary.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalary.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmSalary.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmExpenseHead.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHead.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseHead.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHead.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseHead.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmPayment.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPayment.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmPayment.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPayment.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmPayment.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmMachineUseList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUseList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachineUseList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUseList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachineUseList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmSalary.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalary.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmSalary.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalary.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmSalary.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalary.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmSalary.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalary.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmSalary.Designer.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAD4vxcBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-30T18:29:38.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmPayment.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPayment.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmPayment.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmPayment.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMain.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMain.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAD4v8UBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:23:57.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmMachineList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachineList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachineList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmMachine.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachine.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachine.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachine.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmMachine.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachine.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachine.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachine.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachine.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAASwGMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmExpenseHead.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHead.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseHead.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHead.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseHead.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAD4v2wAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmExpenseHead.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHead.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseHead.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHead.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseHead.Designer.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAD4v7AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-30T18:03:25.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmExpense.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpense.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpense.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpense.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmExpense.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpense.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpense.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpense.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpense.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAASwJgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmExpenseHeadList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHeadList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseHeadList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHeadList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseHeadList.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwFEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BLPayment.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLPayment.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLPayment.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLPayment.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLPayment.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:06:03.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BLExpenseHead.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLExpenseHead.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLExpenseHead.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLExpenseHead.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLExpenseHead.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BLExpense.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLExpense.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLExpense.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLExpense.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLExpense.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwDIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmExpenseList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseList.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowEYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:41.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmExpenseList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:41.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmExpenseHeadList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHeadList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmExpenseHeadList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmExpenseHeadList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmExpenseHeadList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:54:50.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BLSalary.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLSalary.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLSalary.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLSalary.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLSalary.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmSalaryList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalaryList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmSalaryList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalaryList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmSalaryList.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA4wD4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FrmSalaryList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalaryList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmSalaryList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmSalaryList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmSalaryList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:41.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FrmMachineUseList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUseList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachineUseList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineUseList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachineUseList.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FrmMachineList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmMachineList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmMachineList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmMachineList.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FrmCustomerList.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomerList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmCustomerList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomerList.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmCustomerList.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAD0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FrmCustomerList.cs [Design]",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomerList.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmCustomerList.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomerList.cs [Design]",
+              "RelativeToolTip": "GymManagementSystem\\FrmCustomerList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-28T16:50:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FrmCustomer.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmCustomer.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmCustomer.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmCustomer.Designer.cs",
+              "ViewState": "AgIAAPoBAAAAAAAAAAD4v/oBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:53:27.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BLMachine.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLMachine.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLMachine.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLMachine.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLMachine.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:05:58.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BLMachineUse.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLMachineUse.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\BL\\BLMachineUse.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\BL\\BLMachineUse.cs",
+              "RelativeToolTip": "GymManagementSystem\\BL\\BLMachineUse.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\Program.cs",
+              "RelativeToolTip": "GymManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:50:42.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FrmForgetPassword.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmForgetPassword.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmForgetPassword.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmForgetPassword.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmForgetPassword.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:01:51.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FrmGenerateOtp.Designer.cs",
+              "DocumentMoniker": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmGenerateOtp.Designer.cs",
+              "RelativeDocumentMoniker": "GymManagementSystem\\FrmGenerateOtp.Designer.cs",
+              "ToolTip": "D:\\Software\\GymManagementSystem\\GymManagementSystem\\FrmGenerateOtp.Designer.cs",
+              "RelativeToolTip": "GymManagementSystem\\FrmGenerateOtp.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAEwEwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:58:21.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
